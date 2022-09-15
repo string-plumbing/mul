@@ -67,7 +67,9 @@
     "test:module": "IMPORT_MAP_PATH=test/import-maps/dist/index.module.json npm run test-cmd",
     "test:src": "IMPORT_MAP_PATH=test/import-maps/src/index.json npm run test-cmd"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@string-plumbing/concat": "^0.0.1"
+  },
   "devDependencies": {
     "@babel/core": "7.19.0",
     "@babel/plugin-transform-destructuring": "7.18.13",

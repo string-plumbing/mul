@@ -1,15 +1,14 @@
 :cherries: [@string-plumbing/mul](https://string-plumbing.github.io/mul)
 ==
 
-Create a string by repeating a smaller one for JavaScript.
+Create a string by repeating a smaller one with JavaScript.
 See [docs](https://string-plumbing.github.io/mul/index.html).
 
-> :building_construction: Caveat emptor! This is work in progress. Code may be
-> working. Documentation may be present. Coherence may be. Maybe.
+```js
+import {mul} from '@string-plumbing/mul';
 
-> :warning: Depending on your environment, the code may require
-> `regeneratorRuntime` to be defined, for instance by importing
-> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
+mul('ha', 3); // 'hahaha'
+```
 
 [![License](https://img.shields.io/github/license/string-plumbing/mul.svg)](https://raw.githubusercontent.com/string-plumbing/mul/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@string-plumbing/mul.svg)](https://www.npmjs.org/package/@string-plumbing/mul)
