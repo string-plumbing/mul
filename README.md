@@ -12,7 +12,7 @@ mul('ha', 3); // 'hahaha'
 
 [![License](https://img.shields.io/github/license/string-plumbing/mul.svg)](https://raw.githubusercontent.com/string-plumbing/mul/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@string-plumbing/mul.svg)](https://www.npmjs.org/package/@string-plumbing/mul)
-[![Tests](https://img.shields.io/github/workflow/status/string-plumbing/mul/ci?event=push&label=tests)](https://github.com/string-plumbing/mul/actions/workflows/ci.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/actions/workflow/status/string-plumbing/mul/ci.yml?branch=main&event=push&label=tests)](https://github.com/string-plumbing/mul/actions/workflows/ci.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/string-plumbing/mul.svg)](https://github.com/string-plumbing/mul/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/string-plumbing/mul.svg)](https://github.com/string-plumbing/mul/issues)
 [![Downloads](https://img.shields.io/npm/dm/@string-plumbing/mul.svg)](https://www.npmjs.org/package/@string-plumbing/mul)
